@@ -1,0 +1,5 @@
+Superheros = {
+        [2623517878] = true,
+}
+
+return Superheros
