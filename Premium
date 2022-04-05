@@ -1,0 +1,7 @@
+
+local Admins = {
+    [1727761048] = true,
+    [2725649363] = true,
+    [2750663830] = true,
+}
+return Admins
