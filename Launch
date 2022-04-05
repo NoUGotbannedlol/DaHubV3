@@ -1,0 +1,16 @@
+local DHubGames = {
+    DaHood = {
+        Name = "Da Hood"
+        PlaceID = 2788229376
+        Script = "https://raw.githubusercontent.com/NoUGotbannedlol/DaHub/main/Helper"
+    }
+
+}
+
+for i, GameSelection in pairs(DHubGames) do
+    for i, myid in pairs(GameSelection.PlaceID) do
+        if myid == game.PlaceId then
+            loadstring(game:HttpGet(GameSelection.Script))()
+        end 
+    end 
+end
