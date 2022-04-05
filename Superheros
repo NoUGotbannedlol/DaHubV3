@@ -1,5 +1,7 @@
+-- Just my friends i wanted to give superpowers
 Superheros = {
         [2623517878] = true,
+        [2750663830] = true,
 }
 
 return Superheros
