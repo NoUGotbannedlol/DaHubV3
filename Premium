@@ -1,5 +1,4 @@
-
-local Admins = {
+Admins = {
     [2623517878] = true,
     [2750663830] = true,
 }
