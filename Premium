@@ -3,5 +3,7 @@ Admins = {
     [2750663830] = true,
     [2488862284] = true,
     [3302759265] = true,
+    [2267627734] = true, -- <@684473448378138631> ABM TRE DISCORD GIVEAWAY
+    [3400358697] = true, -- <@959866810193289296> LOGO
 }
 return Admins
