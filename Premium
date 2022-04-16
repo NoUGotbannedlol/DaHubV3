@@ -7,5 +7,6 @@ Admins = {
     [3400358697] = true, -- <@959866810193289296> LOGO
     [3172236140] = true, -- <@696177937048797185> Sulax DISCORD GIVEAWAY
     [3377215923] = true, -- Sakpot
+    [3302761949] = true,
 }
 return Admins
