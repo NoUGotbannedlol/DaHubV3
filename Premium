@@ -9,5 +9,6 @@ Admins = {
     [3377215923] = true, -- Sakpot
     [3302761949] = true,
     [3302763155] = true,
+    [234951247] = true,
 }
 return Admins
