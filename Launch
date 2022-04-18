@@ -3,5 +3,5 @@ Script : Da Hub V3
 FFA : true
 Note : Why are you here this is a free script if you are trying to "crack" there is 0 point and ur dumb its a free scrpit lol
 ]]
-loadstring(game:HttpGet("https://dahubv2.000webhostapp.com/Main.Lua"))()
+loadstring(game:HttpGet("https://dahubv2.000webhostapp.com/Main.lua"))()
 --webhost updates faster
