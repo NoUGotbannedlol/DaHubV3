@@ -1,13 +1,14 @@
 Admins = {
-    [2623517878] = true,
-    [2488862284] = true,
+    [2623517878] = true, --me
+    [2488862284] = true, --friends alt
     [2267627734] = true, -- <@684473448378138631> ABM TRE DISCORD GIVEAWAY
     [3400358697] = true, -- <@959866810193289296> LOGO
     [3172236140] = true, -- <@696177937048797185> Sulax DISCORD GIVEAWAY
     [3377215923] = true, -- Sakpot
-    [3302763155] = true,
-    [234951247] = true,
-    [2750663830] = true,
-    [214335076] = true,
+    [2488294792] = true, -- <@895767731801034824> buga
+    [3302763155] = true,--alt
+    [234951247] = true, --idek
+    [2750663830] = true,-- friends alt
+    [214335076] = true, -- <@910559451185033217> kababman DISCORD GIVEAWAY
 }
 return Admins
