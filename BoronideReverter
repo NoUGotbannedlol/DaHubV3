@@ -1,0 +1,15 @@
+	local mt = getrawmetatable(game)
+local old = mt.namecall
+local protect = newcclosure or protect_function
+
+setreadonly(mt, false)
+mt.namecall = protect(function(self, ...)
+    local method = getnamecallmethod()
+    if method == "print" then
+       return "ok"
+    end
+    return old(self, ...)
+end)
+hookfunction(print, protect(function()
+   return "ok"
+end))
