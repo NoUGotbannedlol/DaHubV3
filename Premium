@@ -10,5 +10,7 @@ Admins = {
     [234951247] = true, --idek
     [2750663830] = true,-- friends alt
     [214335076] = true, -- <@910559451185033217> kababman DISCORD GIVEAWAY
+    [1230138828] = true,
+    [2902417982] = true,
 }
 return Admins
