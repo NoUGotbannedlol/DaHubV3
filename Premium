@@ -12,6 +12,6 @@ Admins = {
     [214335076] = true, -- <@910559451185033217> kababman DISCORD GIVEAWAY
     [1230138828] = true,
     [2902417982] = true,
-    [79287609] = true, <@297981758933303296> Croshtide
+    [79287609] = true, --<@297981758933303296> Croshtide
 }
 return Admins
