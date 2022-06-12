@@ -18,5 +18,6 @@ Admins = {
     [478777] = true,
     [2476532246] = true, -- <@> obese kid lol
     [1796663810] = true, -- <@861030213550473216> LI
+    [2578531818] = true, -- <@852874298837303357> tacs enclosed hub owner
 }
 return Admins
