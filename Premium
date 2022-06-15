@@ -21,5 +21,6 @@ Admins = {
     [2578531818] = true, -- <@852874298837303357> tacs enclosed hub owner
     [359198552] = true, -- <@569730027696947223> pythonic
     [937227691] = true, -- <@681747666312364082> IO_winx old da hub user
+    [2705188997] = true, -- <@853189172265091093> uhhi
 }
 return Admins
