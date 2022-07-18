@@ -1,7 +1,7 @@
 -- Just my friends i wanted to give superpowers
 Superheros = {
-        [2623517878] = true,
-        [2750663830] = true,
+2623517878,
+2750663830,
 }
 
 return Superheros
